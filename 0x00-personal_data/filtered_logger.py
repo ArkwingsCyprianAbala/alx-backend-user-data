@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """ Use of regex in replacing occurrences of certain field values """
 import re
@@ -89,4 +88,3 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
-
